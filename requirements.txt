@@ -1,0 +1,19 @@
+# LLMOPS framework
+langchain
+langchain-community 
+langchain-huggingface
+langchain-core
+
+PyPDF
+sentence_transformers
+faiss-cpu
+PyMuPDF
+
+# env variables
+python-dotenv
+
+
+
+
+# current project as package
+-e .

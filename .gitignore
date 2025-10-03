@@ -1,2 +1,8 @@
 env/
+.env
+__pycache__/
+
+data/experimental/
+
+documentPortal.egg-info/
 

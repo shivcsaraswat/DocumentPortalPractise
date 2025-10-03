@@ -5,10 +5,13 @@
 
 # Installing project requirements
 1. pip install -r requirements.txt
+2. pip install -e . 
 
 # Git Commands
 1. git init
 2. git add .
+
+
 
 
 
